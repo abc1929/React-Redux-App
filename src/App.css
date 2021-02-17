@@ -1,0 +1,31 @@
+.App {
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+}
+
+.navbutton {
+   background-color: #1da1f2;
+   color: #ffffff;
+   border-radius: 8px;
+   padding: 4% 10%;
+   font-weight: 600;
+   transition: 0.12s;
+}
+.navbutton:hover {
+   background-color: #1e90d6;
+
+   transition: 0.12s;
+}
+
+/* .searchbtn {
+   display: none;
+   background-color: rgb(184, 255, 231);
+   transition: 0.12s;
+}
+
+.searchbtn:hover {
+   background-color: rgb(94, 122, 113);
+   color: #ffffff;
+   transition: 0.12s;
+} */
